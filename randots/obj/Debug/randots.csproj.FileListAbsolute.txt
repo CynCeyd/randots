@@ -1,0 +1,12 @@
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\bin\Debug\randots.exe.config
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\bin\Debug\randots.exe
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\bin\Debug\randots.pdb
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.Properties.Resources.resources
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.csproj.GenerateResource.Cache
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.exe
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.pdb
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.SplashScreenWindow.resources
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.MainWindow.resources
+c:\users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.AboutWindow.resources
+C:\Users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.rogalski\documents\visual studio 2015\Projects\randots\randots\obj\Debug\randots.RenderWindow.resources
